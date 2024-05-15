@@ -1,5 +1,6 @@
 from flask import Flask
 from .main import main as main_blueprint
+# TODO Use logging
 
 
 def init_app():
