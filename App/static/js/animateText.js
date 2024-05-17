@@ -1,6 +1,6 @@
 const textContainer = document.getElementById('animated-text');
 const texts = ["What if you found yourself in a place where a dream became reality?",
-               "The absurd becomes the norm",
+               "The absurd becomes the norm.",
                "Where did everyone go?"];
 let currentIndex = 0;
 let charIndex = 0;
