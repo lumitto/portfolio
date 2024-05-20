@@ -1,6 +1,6 @@
 from flask import Flask
 from .main import main as main_blueprint
-# TODO Use logging
+# TODO Add 3 or 6 more works
 
 
 def init_app():
