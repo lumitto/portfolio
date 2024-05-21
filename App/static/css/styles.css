@@ -11031,3 +11031,16 @@ header.masthead h1, header.masthead .h1 {
 #service-text {
   text-align: left !important;
 }
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.contact {
+  margin-top: 5%;
+  color: #ff7f5c;
+  font-size: 18pt;
+  background-position-y: bottom;
+}
